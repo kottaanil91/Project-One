@@ -34,6 +34,6 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-          - name: Deploy step
+        -name: Deploy step
     run: echo "Deploying application..."
              
